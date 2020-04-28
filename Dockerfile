@@ -1,2 +1,2 @@
 FROM busybox
-RUN sleep 3600
+RUN sleep 604800
